@@ -1,0 +1,13 @@
+# dotnet
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+
+# editor
+.idea/
+.vs/
+
+# aspire
+*.recived.*
